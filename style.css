@@ -473,7 +473,7 @@ footer {
 }
 
 .footer-section i {
-    margin-right: 10px;
+    margin-right: 1px;
     color: #ff8c00;
 }
 
@@ -628,4 +628,5 @@ footer {
     .social-icons {
         justify-content: center;
     }
+
 }
